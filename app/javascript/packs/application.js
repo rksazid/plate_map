@@ -244,4 +244,4 @@ window.onload = function() {
     widget.plateMap("clearHistory");
 };
 
-console.log($("#my-plate-map").plateMap("getPlate"));
+// console.log($("#my-plate-map").plateMap("getPlate"));
